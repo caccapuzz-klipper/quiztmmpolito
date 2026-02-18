@@ -2014,7 +2014,7 @@ const App = () => {
         <div className="bg-white p-8 rounded-3xl shadow-sm border border-gray-100 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex-1 text-center md:text-left">
             <h2 className="text-3xl font-black text-gray-900 mb-2">Benvenuto, Studente</h2>
-            <p className="text-gray-500 font-medium italic">Preparazione Ingegneria dei Materiali</p>
+            <p className="text-gray-500 font-medium italic">preparazione quiz tmm, creato da Marco Vicari per i posteri</p>
           </div>
         </div>
 
@@ -2336,7 +2336,7 @@ const App = () => {
         <div className="max-w-7xl mx-auto h-full flex items-center justify-between">
           <div className="flex items-center gap-3 cursor-pointer" onClick={() => setView('dashboard')}>
             <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center text-white shadow-lg"><Layout size={24} /></div>
-            <span className="text-xl font-black tracking-tighter italic uppercase">Moodle<span className="text-indigo-600 text-2xl">PRO</span></span>
+            <span className="text-xl font-black tracking-tighter italic uppercase">quiz<span className="text-indigo-600 text-2xl">TMM</span></span>
           </div>
         </div>
       </nav>

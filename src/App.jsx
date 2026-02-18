@@ -1750,7 +1750,7 @@ const URBETALLI_QUESTIONS = [
   {
     "id": "u6",
     "text": "[URBETALLI] Quale tipo di microstruttura è rappresentata in figura?",
-    "imageUrl": "/images/domanda_u6_microstruttura.jpg",
+    "imageUrl": "/images/domanda_u6_microstruttura.png",
     "options": [
       "(a) Martensite in seguito a tempra di un acciaio",
       "(b) Perlite in seguito a ricottura di un C80",
@@ -1775,7 +1775,7 @@ const URBETALLI_QUESTIONS = [
   {
     "id": "u9",
     "text": "[URBETALLI] Il trattamento termico riportato si riferisce a quale lega? Cosa succede? Più risposte possibili.",
-    "imageUrl": "/images/domanda_u9_ciclo_termico.jpg",
+    "imageUrl": "/images/domanda_u9_ciclo_termico.png",
     "options": [
       "(a) E' il ciclo del processo di nitrurazione",
       "(b) E' il trattamento di tempra e rinvenimento di acciai per utensili",
@@ -1810,7 +1810,7 @@ const URBETALLI_QUESTIONS = [
     "id": "u11",
     "type": "matching",
     "text": "[URBETALLI] Prendiamo in considerazione l'equazione di Hollomon-Jaffe.",
-    "imageUrl": "/images/domanda_u11_equazione.jpg",
+    "imageUrl": "/images/domanda_u11_equazione.png",
     "prompts": [
       "Qual è il campo di applicazione di tale equazione?",
       "Questa equazione descrive la temprabilità degli acciai?",
